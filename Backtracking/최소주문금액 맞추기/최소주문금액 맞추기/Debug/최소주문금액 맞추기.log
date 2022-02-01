@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Goo\Documents\21년 2학기\알고리즘\12주차 과제 Backtracking\최소주문금액 맞추기\최소주문금액 맞추기\소스.cpp(90,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Goo\Documents\21년 2학기\알고리즘\12주차 과제 Backtracking\최소주문금액 맞추기\최소주문금액 맞추기\소스.cpp(92,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  최소주문금액 맞추기.vcxproj -> C:\Users\Goo\Documents\21년 2학기\알고리즘\12주차 과제 Backtracking\최소주문금액 맞추기\Debug\최소주문금액 맞추기.exe

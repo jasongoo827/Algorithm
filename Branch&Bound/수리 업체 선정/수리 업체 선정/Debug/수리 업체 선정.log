@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\Goo\Documents\21년 2학기\알고리즘\13주차 과제 Branch&Bound\수리 업체 선정\수리 업체 선정\소스.cpp(5,1): warning C4005: 'INT_MAX': 매크로 재정의
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\limits.h(36): message : 'INT_MAX'의 이전 정의를 참조하십시오.
+C:\Users\Goo\Documents\21년 2학기\알고리즘\13주차 과제 Branch&Bound\수리 업체 선정\수리 업체 선정\소스.cpp(105,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Goo\Documents\21년 2학기\알고리즘\13주차 과제 Branch&Bound\수리 업체 선정\수리 업체 선정\소스.cpp(123): warning C4715: 'findMinCost': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  수리 업체 선정.vcxproj -> C:\Users\Goo\Documents\21년 2학기\알고리즘\13주차 과제 Branch&Bound\수리 업체 선정\Debug\수리 업체 선정.exe
